@@ -1,0 +1,5 @@
+﻿  mysocketclient.c
+f:\c_lianxi\c提高\socketclient\socketclient\mysocketclient.c(60): warning C4047: “==”:“int”与“void *”的间接级别不同
+    正在创建库 F:\C_lianxi\C提高\socketclient\Debug\mysocketclient.lib 和对象 F:\C_lianxi\C提高\socketclient\Debug\mysocketclient.exp
+  socketclient.vcxproj -> F:\C_lianxi\C提高\socketclient\Debug\mysocketclient.dll
+  socketclient.vcxproj -> F:\C_lianxi\C提高\socketclient\Debug\mysocketclient.pdb (Full PDB)

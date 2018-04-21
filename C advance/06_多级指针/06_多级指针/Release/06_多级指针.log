@@ -1,0 +1,11 @@
+﻿  demo_01指针的输入和输出特性.c
+demo_01指针的输入和输出特性.c(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo_01指针的输入和输出特性.c(40): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  demo_02二级指针做输入_第一种内存模型.c
+  demo_03二级指针做输入_第2种内存模型.c
+demo_03二级指针做输入_第2种内存模型.c(33): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo_03二级指针做输入_第2种内存模型.c(34): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo_03二级指针做输入_第2种内存模型.c(35): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo_03二级指针做输入_第2种内存模型.c(89): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo_03二级指针做输入_第2种内存模型.c(90): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo_03二级指针做输入_第2种内存模型.c(91): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

@@ -1,0 +1,4 @@
+﻿  demo_06结构体的高级话题.c
+f:\c_lianxi\c提高\08_结构体\08_结构体\demo_06结构体的高级话题.c(25): warning C4101: “t1”: 未引用的局部变量
+  08_结构体.vcxproj -> F:\C_lianxi\C提高\08_结构体\Debug\08_结构体.exe
+  08_结构体.vcxproj -> F:\C_lianxi\C提高\08_结构体\Debug\08_结构体.pdb (Full PDB)

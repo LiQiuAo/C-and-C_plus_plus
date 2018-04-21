@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (06_多级指针.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  demo_09指针作业强化训练2.c
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(37): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(38): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(78): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(79): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(165): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(166): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(217): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_09指针作业强化训练2.c(218): warning C4090: “=”: 不同的“const”限定符
+  demo_08指针作业强化训练.c
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_08指针作业强化训练.c(35): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_08指针作业强化训练.c(36): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_08指针作业强化训练.c(78): warning C4047: “=”:“char **”与“char *”的间接级别不同
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_08指针作业强化训练.c(81): warning C4047: “return”:“int”与“void *”的间接级别不同
+  demo_07考试题1.c
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_07考试题1.c(35): warning C4090: “=”: 不同的“const”限定符
+f:\c_lianxi\c提高\06_多级指针\06_多级指针\demo_07考试题1.c(36): warning C4090: “=”: 不同的“const”限定符
+  demo_06多级指针.c
+  demo_05二级指针内存模型.c
+  demo_04二级指针做输入_第3种内存模型.c
+  demo_03二级指针做输入_第2种内存模型.c
+  demo_02二级指针做输入_第一种内存模型.c
+  demo_01指针的输入和输出特性.c
+  正在生成代码...
+  06_多级指针.vcxproj -> F:\C_lianxi\C提高\06_多级指针\Debug\06_多级指针_很重要.exe
+  06_多级指针.vcxproj -> F:\C_lianxi\C提高\06_多级指针\Debug\06_多级指针_很重要.pdb (Full PDB)

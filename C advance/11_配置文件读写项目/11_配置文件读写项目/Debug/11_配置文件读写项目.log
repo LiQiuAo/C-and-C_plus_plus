@@ -1,0 +1,6 @@
+﻿  配置文件集成测试框架.c
+  cfg_op.c
+f:\c_lianxi\c提高\11_配置文件读写项目\11_配置文件读写项目\cfg_op.c(108): warning C4047: “==”:“int”与“void *”的间接级别不同
+  正在生成代码...
+  11_配置文件读写项目.vcxproj -> F:\C_lianxi\C提高\11_配置文件读写项目\Debug\11_配置文件读写项目.exe
+  11_配置文件读写项目.vcxproj -> F:\C_lianxi\C提高\11_配置文件读写项目\Debug\11_配置文件读写项目.pdb (Full PDB)

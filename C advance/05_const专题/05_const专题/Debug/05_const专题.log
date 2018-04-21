@@ -1,0 +1,6 @@
+﻿  demo_01示例.c
+f:\c_lianxi\c提高\05_const专题\05_const专题\demo_01示例.c(16): warning C4047: “=”:“const char *”与“int”的间接级别不同
+f:\c_lianxi\c提高\05_const专题\05_const专题\demo_01示例.c(48): warning C4047: “=”:“const char *”与“int”的间接级别不同
+f:\c_lianxi\c提高\05_const专题\05_const专题\demo_01示例.c(59): warning C4090: “初始化”: 不同的“const”限定符
+  05_const专题.vcxproj -> F:\C_lianxi\C提高\05_const专题\Debug\05_const专题.exe
+  05_const专题.vcxproj -> F:\C_lianxi\C提高\05_const专题\Debug\05_const专题.pdb (Full PDB)

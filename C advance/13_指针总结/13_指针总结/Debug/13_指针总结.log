@@ -1,0 +1,12 @@
+﻿  demo02_再谈多级指针强化.c
+f:\c_lianxi\c提高\13_指针总结\13_指针总结\demo02_再谈多级指针强化.c(12): warning C4047: “=”:“char **”与“int”的间接级别不同
+f:\c_lianxi\c提高\13_指针总结\13_指针总结\demo02_再谈多级指针强化.c(23): warning C4047: “=”:“char **”与“int”的间接级别不同
+  demo01_指针总结.c
+f:\c_lianxi\c提高\13_指针总结\13_指针总结\demo01_指针总结.c(20): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\c_lianxi\c提高\13_指针总结\13_指针总结\demo01_指针总结.c(46): warning C4047: “=”:“char”与“char *”的间接级别不同
+f:\c_lianxi\c提高\13_指针总结\13_指针总结\demo01_指针总结.c(43): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+f:\c_lianxi\c提高\13_指针总结\13_指针总结\demo01_指针总结.c(75): warning C4033: “main01”必须返回值
+  正在生成代码...
+f:\c_lianxi\c提高\13_指针总结\13_指针总结\demo02_再谈多级指针强化.c(13): warning C4716: “getMem”: 必须返回一个值

@@ -1,0 +1,28 @@
+﻿  demo05_堆栈区的理解.c
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo05_堆栈区的理解.c(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo05_堆栈区的理解.c(44): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo05_堆栈区的理解.c(47): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo05_堆栈区的理解.c(47): warning C4313: “printf”: 格式字符串中的“%d”与“char *”类型的参数 1 冲突
+  demo02_数据类型分析.c
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4313: “printf”: 格式字符串中的“%d”与“int *”类型的参数 1 冲突
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4313: “printf”: 格式字符串中的“%d”与“int *”类型的参数 2 冲突
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int (*)[10]”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4313: “printf”: 格式字符串中的“%d”与“int (*)[10]”类型的参数 3 冲突
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“int (*)[10]”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(38): warning C4313: “printf”: 格式字符串中的“%d”与“int (*)[10]”类型的参数 4 冲突
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(39): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(39): note: 请考虑在格式字符串中使用“%zd”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(40): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(40): note: 请考虑在格式字符串中使用“%zd”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(43): warning C4101: “t2”: 未引用的局部变量
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo02_数据类型分析.c(42): warning C4101: “t1”: 未引用的局部变量
+  demo03_变量的本质分析.c
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo03_变量的本质分析.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo03_变量的本质分析.c(17): warning C4313: “printf”: 格式字符串中的“%d”与“int *”类型的参数 1 冲突
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo03_变量的本质分析.c(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo03_变量的本质分析.c(19): warning C4313: “printf”: 格式字符串中的“%d”与“int *”类型的参数 1 冲突
+  正在生成代码...

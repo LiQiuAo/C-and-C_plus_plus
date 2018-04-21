@@ -1,0 +1,13 @@
+﻿  demo06_堆栈的属性测试.cpp
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo06_堆栈的属性测试.cpp(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo06_堆栈的属性测试.cpp(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo06_堆栈的属性测试.cpp(23): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo06_堆栈的属性测试.cpp(23): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+  demo04_静态存储区理解.cpp
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo04_静态存储区理解.cpp(9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo04_静态存储区理解.cpp(9): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo04_静态存储区理解.cpp(34): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+f:\c_lianxi\c提高\变量的本质分析\变量的本质分析\demo04_静态存储区理解.cpp(34): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“char *”
+  正在生成代码...
+  变量的本质分析.vcxproj -> F:\C_lianxi\C提高\变量的本质分析\Debug\变量的本质分析.exe
+  变量的本质分析.vcxproj -> F:\C_lianxi\C提高\变量的本质分析\Debug\变量的本质分析.pdb (Full PDB)

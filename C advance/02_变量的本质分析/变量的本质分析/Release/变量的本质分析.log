@@ -1,0 +1,14 @@
+﻿  demo03_变量的本质分析.c
+demo03_变量的本质分析.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+demo03_变量的本质分析.c(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  demo02_数据类型分析.c
+demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int (*)[10]”
+demo02_数据类型分析.c(38): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“int (*)[10]”
+demo02_数据类型分析.c(43): warning C4101: “t2”: 未引用的局部变量
+demo02_数据类型分析.c(42): warning C4101: “t1”: 未引用的局部变量
+  demo05_堆栈区的理解.c
+demo05_堆栈区的理解.c(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo05_堆栈区的理解.c(44): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+demo05_堆栈区的理解.c(47): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
